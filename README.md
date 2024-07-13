@@ -13,8 +13,6 @@ This project involves setting up an Active Directory environment using VirtualBo
 - <b>Windows 10</b>
 - <b>VirtualBox</b>
 - <b>Active Directory Domain Services (AD DS)</b>
-- <b>DNS (Domain Name System)</b>
-- <b>DHCP (Dynamic Host Configuration Protocol)</b>
 
 <h2>Computer Specifications</h2>
 

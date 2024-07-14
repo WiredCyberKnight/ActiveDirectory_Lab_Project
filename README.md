@@ -39,7 +39,8 @@
 <h2 align="center">How To View The Project:</h2>
 
 <p align="center">
-  This project is quite extensive, and I'm unable to upload it here. To view the project, please click on the link <a href="https://1drv.ms/o/s!AkNvJ3VMmPWfjSqQYqvBc2OWkhrw?e=utjyFI">here</a>. I documented the entire project on OneNote. I opened it in incognito mode, and it didn't require a login, so anyone should be able to view it. Enjoy! I'd love to hear your feedback. Thanks!
+  This project is quite extensive, and I'm unable to upload it here. To view the project, please click on the link <a href="https://1drv.ms/o/s!AkNvJ3VMmPWfjSqQYqvBc2OWkhrw?e=gsqMDq">here</a>. I documented the entire project on OneNote. I opened it in incognito mode, and it didn't require a login, so anyone should be able to view it. Enjoy! I'd love to hear your feedback. Thanks!
 </p>
+
 
 
